@@ -1,0 +1,12 @@
+﻿{
+  //Tên biến trong EMR: Tên biến trong HIS
+  "chieuCao": "chieu_cao",
+  "canNang": "can_nang",
+  "patientInfo": "thongTinBenhNhan",
+  "createdDate": "ngayTiepNhan",
+  "name": "ten",
+  "age": "tuoi",
+  "address": "diaChi",
+  "phoneNumber": "sdt",
+  "chuyenvienhoi": "ngaychuyentuyen" 
+}

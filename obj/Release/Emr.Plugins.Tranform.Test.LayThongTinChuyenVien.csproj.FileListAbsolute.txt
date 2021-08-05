@@ -1,0 +1,12 @@
+D:\archive21-07-15\HIS_Integration\Emr.Plugins.Tranform.Test.LayThongTinChuyenVien\bin\Release\Emr.Plugins.Tranform.Test.LayThongTinChuyenVien.dll
+D:\archive21-07-15\HIS_Integration\Emr.Plugins.Tranform.Test.LayThongTinChuyenVien\bin\Release\Emr.Plugins.Tranform.Test.LayThongTinChuyenVien.pdb
+D:\archive21-07-15\HIS_Integration\Emr.Plugins.Tranform.Test.LayThongTinChuyenVien\bin\Release\Emr.Pluggable.Interface.dll
+D:\archive21-07-15\HIS_Integration\Emr.Plugins.Tranform.Test.LayThongTinChuyenVien\bin\Release\Newtonsoft.Json.dll
+D:\archive21-07-15\HIS_Integration\Emr.Plugins.Tranform.Test.LayThongTinChuyenVien\bin\Release\Newtonsoft.Json.xml
+D:\archive21-07-15\HIS_Integration\Emr.Plugins.Tranform.Test.LayThongTinChuyenVien\obj\Release\Emr.Plugins.Tranform.Test.LayThongTinChuyenVien.csproj.CoreCompileInputs.cache
+D:\archive21-07-15\HIS_Integration\Emr.Plugins.Tranform.Test.LayThongTinChuyenVien\obj\Release\Emr.Plugins.Tranform.Test.LayThongTinChuyenVien.csproj.CopyComplete
+D:\archive21-07-15\HIS_Integration\Emr.Plugins.Tranform.Test.LayThongTinChuyenVien\obj\Release\Emr.Plugins.Tranform.Test.LayThongTinChuyenVien.dll
+D:\archive21-07-15\HIS_Integration\Emr.Plugins.Tranform.Test.LayThongTinChuyenVien\obj\Release\Emr.Plugins.Tranform.Test.LayThongTinChuyenVien.pdb
+D:\archive21-07-15\HIS_Integration\Emr.Plugins.Tranform.Test.LayThongTinChuyenVien\bin\Release\Converter.dll
+D:\archive21-07-15\HIS_Integration\Emr.Plugins.Tranform.Test.LayThongTinChuyenVien\bin\Release\Converter.pdb
+D:\archive21-07-15\HIS_Integration\Emr.Plugins.Tranform.Test.LayThongTinChuyenVien\obj\Release\Emr.Plugins.Tranform.Test.LayThongTinChuyenVien.csproj.AssemblyReference.cache
