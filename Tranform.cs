@@ -24,6 +24,7 @@ namespace Emr.Plugins.Tranform.Test.LayThongTinChuyenVien
         {
             try
             {
+                //convert
                 var convert = new EmrConverter();
                 var resultData = convert.ConvertHisObjectToEmrObject(data);
 
